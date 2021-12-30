@@ -15,6 +15,7 @@ Enjoy your visit folks!!
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomasdwi.a/)
 [![Blogger Read](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://successfulthomas.blogspot.com/)
 [![Gmail Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastomcsc23@gmail.com)
+[![Podcast](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/3lpZRMMvK2L035WlaLeDBH?si=e81a73ec9fb7498f)
 [![Telegram Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misdinar)
 <br>
      
