@@ -8,7 +8,7 @@ Please noted that I'm not better than any of you guys, because i created this ac
 
 Enjoy your visit folks!!
 
-📙 I’m currently learning on **WEB DEVELOPMENT and ARTIFICIAL INTELLIGENCE**...
+📙 I’m currently learning on **WEB DEVELOPMENT, ARTIFICIAL INTELLIGENCE, and Quality Assurance**...
 
 ## 📫 You can reach me via :
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-dwi-a-b5255412b/)
