@@ -1,6 +1,6 @@
-### Hello there, My name is Thomas <img src="https://media.giphy.com/media/ekeXXN8CG7xEavr6rP/giphy.gif" width="20px">
+### Hello there, My name is Thomas
 
-I am an **Informatics** Engineering Student at Sepuluh Nopember Institute of Technology <img src="https://media.giphy.com/media/cAcofT0wwuRnwZ8PGE/giphy.gif" width="20px">
+I am an **Informatics** Engineering Student at Sepuluh Nopember Institute of Technology
 
 Here you'll find all of my works, including my projects or anything that catch my interest ❤
 
